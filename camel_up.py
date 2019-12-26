@@ -1,9 +1,6 @@
 from copy import deepcopy
 import numpy as np
-import sys
 import random
-
-sys.setrecursionlimit(15000)
 
 
 class CamelBoard:
